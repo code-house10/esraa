@@ -1,0 +1,35 @@
+﻿@font-face {
+  font-family: 'Marhey';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/marhey/v6/x3d8ck7Laq-T7wl7mqfVrEe9sDvtBZVwO2c.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Marhey';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/marhey/v6/x3d8ck7Laq-T7wl7mqfVrEe9sDvtBctwO2c.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Marhey';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/marhey/v6/x3d8ck7Laq-T7wl7mqfVrEe9sDvtBflwO2c.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Marhey';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/marhey/v6/x3d8ck7Laq-T7wl7mqfVrEe9sDvtBRV3O2c.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Marhey';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/marhey/v6/x3d8ck7Laq-T7wl7mqfVrEe9sDvtBSx3O2c.ttf) format('truetype');
+}
